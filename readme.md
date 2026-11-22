@@ -3,7 +3,7 @@
 Minimal reproduction for the Renovate pull request
 **"fix(nix): pass the GitHub token in the environment, not on the command line"**.
 
-PR: <!-- replace with the PR link once it is open -->
+PR: https://github.com/renovatebot/renovate/pull/48289
 
 ## Current behavior
 
